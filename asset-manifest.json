@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/react-web/static/css/main.3cc2d7bc.css",
+    "main.js": "/react-web/static/js/main.a941beb9.js",
+    "static/js/787.5062f97c.chunk.js": "/react-web/static/js/787.5062f97c.chunk.js",
+    "static/media/e8.jpg": "/react-web/static/media/e8.2f151a55ca81d2a68fc3.jpg",
+    "static/media/Running1.jpg": "/react-web/static/media/Running1.763fa84cf57615660be0.jpg",
+    "static/media/cycling3.jpg": "/react-web/static/media/cycling3.b306f974d200f4e322b1.jpg",
+    "static/media/bcycle.jpg": "/react-web/static/media/bcycle.0e7f9561f0f8fdf50562.jpg",
+    "static/media/p4.jpg": "/react-web/static/media/p4.e579f7a87e04e615179e.jpg",
+    "static/media/e6.jpg": "/react-web/static/media/e6.85bd62ffe3c662e61ae9.jpg",
+    "static/media/sss.jpg": "/react-web/static/media/sss.0471650dbcf09910d369.jpg",
+    "static/media/sand.jpg": "/react-web/static/media/sand.202ba7561bbb67dc41d2.jpg",
+    "static/media/bgpic.png": "/react-web/static/media/bgpic.0abb6d8fc4d4370bb112.png",
+    "static/media/cloud.jpg": "/react-web/static/media/cloud.a69aa4ede8e9b14fb1ff.jpg",
+    "static/media/p1.jpg": "/react-web/static/media/p1.12ad7415bee36fda770a.jpg",
+    "static/media/e4.jpg": "/react-web/static/media/e4.4dc8b5b9d977829a8c3a.jpg",
+    "static/media/e5.jpg": "/react-web/static/media/e5.067856d00f76c1f61e56.jpg",
+    "static/media/e2.jpg": "/react-web/static/media/e2.a42b9d53aba10c805f61.jpg",
+    "static/media/e7.jpg": "/react-web/static/media/e7.a42b9d53aba10c805f61.jpg",
+    "static/media/run3.png": "/react-web/static/media/run3.5c7849ac1c6cbfbbea79.png",
+    "static/media/e9.jpg": "/react-web/static/media/e9.5989bf8254314d6ae4d6.jpg",
+    "static/media/cycle2.png": "/react-web/static/media/cycle2.a2933f9824a2095db459.png",
+    "static/media/swim3.png": "/react-web/static/media/swim3.049cbbb5ad461d8adccc.png",
+    "static/media/logo1.png": "/react-web/static/media/logo1.43db76a427b2e3c0c5cc.png",
+    "static/media/e3.jpg": "/react-web/static/media/e3.d2206275fe164a98cf43.jpg",
+    "static/media/swim1.png": "/react-web/static/media/swim1.9ea14ac2feeb77edae90.png",
+    "static/media/e1.jpg": "/react-web/static/media/e1.2de06d145d8184ff07e8.jpg",
+    "static/media/cycle1.png": "/react-web/static/media/cycle1.185076cbde53cc05e890.png",
+    "static/media/p3.jpg": "/react-web/static/media/p3.1e19387cfb8660976582.jpg",
+    "static/media/p2.jpg": "/react-web/static/media/p2.1e990edf9cba0f296247.jpg",
+    "index.html": "/react-web/index.html",
+    "main.3cc2d7bc.css.map": "/react-web/static/css/main.3cc2d7bc.css.map",
+    "main.a941beb9.js.map": "/react-web/static/js/main.a941beb9.js.map",
+    "787.5062f97c.chunk.js.map": "/react-web/static/js/787.5062f97c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3cc2d7bc.css",
+    "static/js/main.a941beb9.js"
+  ]
+}
