@@ -1,7 +1,8 @@
 repo_name: AntonyJudeShaman/react-web
 report_id: 3248a547117d8efaa95d1d3d314471f9
+version: 0.1
 repo_type: Public
-timestamp: '2023-12-12T13:20:39+00:00'
+timestamp: '2024-01-05T08:25:14+00:00'
 requested_by: AntonyJudeShaman
 provider: github
 branch: main
@@ -15,6 +16,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/AntonyJudeShaman/react-web
   detection_source: Repo Metadata
 - name: JavaScript
   description: Lightweight, interpreted, object-oriented language with first-class
@@ -25,6 +27,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/AntonyJudeShaman/react-web
   detection_source: Repo Metadata
 - name: Bootstrap
   description: Simple and flexible HTML, CSS, and JS for popular UI components and
@@ -78,6 +81,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Front-End Frameworks
   image_url: https://img.stackshare.io/service/8158/default_660b7c41c3ba489cb581eec89c04655404258c19.png
+  detection_source_url: https://github.com/AntonyJudeShaman/react-web/blob/main/package.json
   detection_source: package.json
   last_updated_by: shaman
   last_updated_on: 2023-04-28 09:51:27.000000000 Z
@@ -89,6 +93,7 @@ tools:
   category: Data Stores
   sub_category: Database Tools
   image_url: https://img.stackshare.io/service/109221/default_b888cdf5617d936aa6aacf130911906955508639.png
+  detection_source_url: https://github.com/AntonyJudeShaman/react-web/blob/main/public/robots.txt
   detection_source: public/robots.txt
   last_updated_by: shaman
   last_updated_on: 2023-04-28 09:51:27.000000000 Z
@@ -100,6 +105,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/AntonyJudeShaman/react-web
   detection_source: Repo Metadata
 - name: npm
   description: The package manager for JavaScript.
@@ -109,6 +115,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Front End Package Manager
   image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/AntonyJudeShaman/react-web/blob/main/package.json
   detection_source: package.json
   last_updated_by: shaman
   last_updated_on: 2023-04-28 09:51:27.000000000 Z
@@ -120,6 +127,7 @@ tools:
   category: Communications
   sub_category: Email API
   image_url: https://img.stackshare.io/service/6209/default_082f0619f4d49a25f75896e370cc67c9a3f0a4fe.jpg
+  detection_source_url: https://github.com/AntonyJudeShaman/react-web/blob/main/package.json
   detection_source: package.json
   last_updated_by: shaman
   last_updated_on: 2023-04-28 09:51:27.000000000 Z
@@ -129,6 +137,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/2270/no-img-open-source.png
+  detection_source_url: https://github.com/AntonyJudeShaman/react-web/blob/main/public/index.html
   detection_source: public/index.html
   last_updated_by: shaman
   last_updated_on: 2023-04-28 09:51:27.000000000 Z
@@ -140,6 +149,7 @@ tools:
   category: Communications
   sub_category: Large Language Model Tools
   image_url: https://img.stackshare.io/service/48790/default_5b6c6b73f1ff3775c85d2a1ba954cb87e30cbf13.jpg
+  detection_source_url: https://github.com/AntonyJudeShaman/react-web/blob/main/public/robots.txt
   detection_source: public/robots.txt
   last_updated_by: shaman
   last_updated_on: 2023-04-28 09:51:27.000000000 Z
